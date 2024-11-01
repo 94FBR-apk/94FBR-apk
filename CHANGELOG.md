@@ -2,7 +2,7 @@
 
 ## [1.0.0] - 2024-10-30
 ### Added
-- Initialized main app setup for YouTube Premium APK.
+- Initialized main app setup for 94FBR.
 - Implemented ad-free experience, background play, and offline download functionalities.
 - Created customizable settings for interface and playback.
 
