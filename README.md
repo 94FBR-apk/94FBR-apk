@@ -1,6 +1,6 @@
 #  Exploring 94FBR Movies: A Gateway to Free Streaming
 
-## 🎉 [Download 94FBR Movies App Now!](https://94fbr.io/) 🎉
+## 🎉 [Download 94FBR Movies App Now!](https://94fbr.io/94fbr-new-movie/) 🎉
 
 In the ever-evolving landscape of online entertainment, 94FBR Movies has emerged as a notable platform for film enthusiasts seeking free streaming options. This article delves into what 94FBR Movies offers, its features, and some important considerations for users.
 
